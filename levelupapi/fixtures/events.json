@@ -1,0 +1,30 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "description": "Travel around the country, buy properties, and spend lots of money with friends!",
+            "organizer": 1,
+            "date": "2022-10-21",
+            "time": "02:30:00",
+            "gamers": [
+                1
+            ]
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 2,
+        "fields": {
+            "game": 2,
+            "description": "Try to figure out who's the liar in the group. Each person draws a card and is forced to play that role. People are sneakier than you think!",
+            "organizer": 1,
+            "date": "2022-11-20",
+            "time": "01:30:00",
+            "gamers": [
+                1
+            ]
+        }
+    }
+]
